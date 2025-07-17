@@ -1,18 +1,11 @@
-## Getting Started
+## Resultado Ejercicios Fibonacci
+---
+<img width="581" height="139" alt="image" src="https://github.com/user-attachments/assets/6f3586e6-90a6-41e7-80de-6b60d36c3635" />
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+---
 
-## Folder Structure
+## Resultado Laberinto
+---
+<img width="1339" height="154" alt="image" src="https://github.com/user-attachments/assets/dde294a5-900a-4f0b-89ef-001d1e4e2179" />
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
